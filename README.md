@@ -1,0 +1,6 @@
+README
+===
+
+```
+pip install pyautogui
+```
